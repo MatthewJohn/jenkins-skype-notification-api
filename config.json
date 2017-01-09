@@ -1,0 +1,25 @@
+{
+    "SKYPE_USERNAME": "",
+    "SKYPE_PASSWORD": "",
+    "APIS": {
+        "API_KEY": {
+            "JENKINS_BASE_URL": "http://localhost:8080/",
+            "DEFAULT": {
+                "USERS": [],
+                "GROUPS": [],
+                "MESSAGES": {
+                    "STARTED": "",
+                    "SUCCESS": "",
+                    "FINALIZED": null
+                }
+            },
+            "JOB_OVERRIDES": {
+                "OPTIONAL_JOB": {
+                    "USERS": [],
+                    "GROUPS": [],
+                    "APPEND_DEFAULT": false
+                }
+            }
+        }
+    }
+}
